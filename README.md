@@ -1,8 +1,8 @@
-\# Student Management \& Performance Analysis System
+# Student Management \& Performance Analysis System
 
 
 
-\## Project Description
+## Project Description
 
 
 
@@ -18,7 +18,7 @@ It also performs data analysis, visualization and basic machine learning predict
 
 
 
-\## Features
+## Features
 
 
 
@@ -46,7 +46,7 @@ It also performs data analysis, visualization and basic machine learning predict
 
 
 
-\## Technologies Used
+## Technologies Used
 
 
 
@@ -70,7 +70,7 @@ It also performs data analysis, visualization and basic machine learning predict
 
 
 
-\## Beyond Syllabus Topic
+## Beyond Syllabus Topic
 
 
 
@@ -82,7 +82,7 @@ Tkinter is used to develop the graphical user interface of the student managemen
 
 
 
-\## Database
+## Database
 
 
 
@@ -106,7 +106,7 @@ Table name:
 
 
 
-\## Data Analysis
+## Data Analysis
 
 
 
@@ -136,7 +136,7 @@ SciPy is used for:
 
 
 
-\## Data Visualization
+## Data Visualization
 
 
 
@@ -152,7 +152,7 @@ Matplotlib and Seaborn are used to create:
 
 
 
-\## Machine Learning
+## Machine Learning
 
 
 
@@ -180,7 +180,7 @@ The current dataset contains 21 student records.
 
 
 
-\## Installation
+## Installation
 
 
 
